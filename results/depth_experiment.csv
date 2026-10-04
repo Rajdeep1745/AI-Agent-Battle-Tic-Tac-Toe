@@ -1,0 +1,5 @@
+depth,games,ai_wins,opponent_wins,draws,avg_nodes_per_game,avg_pruned_per_game,avg_time_seconds
+1,20,0,0,20,45.0,0.0,0.000368
+2,20,0,0,20,285.0,0.0,0.001734
+3,20,0,0,20,932.4,572.6,0.005193
+4,20,0,0,20,3366.95,1246.55,0.020345
